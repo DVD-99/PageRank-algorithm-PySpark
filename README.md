@@ -18,4 +18,4 @@ These are the weights of the top 5 nodes.
 285:0.0018273721700645144
 ```
 
-If you want just to experiment, use ```graph-small.txt```
+If you want to experiment, use ```graph-small.txt```
